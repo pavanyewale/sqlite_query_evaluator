@@ -3,7 +3,7 @@ sqlite_evaluator in functional language gofer
 
 This is simple project for sqlite_evalutor in gofer language done in IP course of MCA-I year. 
 
-# what is does?
+# What it does?
    It takes a queries like create table,select,delete in a perticular format and evaluates that and gives us a result.
 
 # How to run?
