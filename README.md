@@ -2,6 +2,11 @@
 sqlite_evaluator in functional language gofer 
 
 This is simple project for sqlite_evalutor in gofer language done in IP course of MCA-I year. 
+
+# what is does?
+   It takes a queries like create table,select,delete in a perticular format and evaluates that and gives us a result.
+
+# How to run?
 To run this You need to install gofer in your computer.
 To install gofer in linux follow procedure:
 
